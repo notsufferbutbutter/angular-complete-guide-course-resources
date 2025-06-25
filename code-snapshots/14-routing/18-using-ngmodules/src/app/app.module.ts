@@ -28,7 +28,6 @@ import { AppRoutingModule } from './app-routing.module';
     NewTaskComponent,
     CardComponent,
     NotFoundComponent,
-    UserTasksComponent,
   ],
   imports: [BrowserModule, FormsModule, AppRoutingModule],
   bootstrap: [AppComponent],
